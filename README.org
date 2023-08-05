@@ -4,6 +4,6 @@ Common Lisp UUID library with zero dependencies
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/ak-coram/cl-frugal-uuid.git |
-| commit  | 8bee3c4                                            |
+| commit  | b3d4d9f                                            |
 | systems | frugal-uuid                                        |
 |---------+----------------------------------------------------|
