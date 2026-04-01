@@ -7,3 +7,4 @@ Common Lisp UUID library with zero dependencies
 | commit  | 9e766a7                                            |
 | systems | frugal-uuid                                        |
 |---------+----------------------------------------------------|
+ 
